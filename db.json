@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jane Ausello",
+      "email": "jausello0@theatlantic.com",
+      "mobile": "9117903125",
+      "password": "12345"
+    }
+  ]
+}
